@@ -7,7 +7,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=1000&height=30&lines=Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
 
 - 📚 I am pursuing B.Sc in **Data Analytics.**
-- 🌱 I’m currently learning **JavaScript & Python.**
+- 🌱 I’m currently learning **Python.**
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
