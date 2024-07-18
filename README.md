@@ -14,6 +14,7 @@
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logo=CSS3&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="excel" src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
