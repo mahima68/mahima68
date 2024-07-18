@@ -18,6 +18,11 @@
   <img alt="sql" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
   <img alt="tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
   <img alt="powerbi" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
+  <img alt="ibm spss" src="https://img.shields.io/badge/-IBM%20SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white" />
+  <img alt="pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="matplotlib" src="https://img.shields.io/badge/-Matplotlib-239120?style=flat-square&logo=python&logoColor=white" />
+  <img alt="data visualization" src="https://img.shields.io/badge/-Data%20Visualization-4CAF50?style=flat-square&logo=dataviz&logoColor=white" />
+  <img alt="data analysis" src="https://img.shields.io/badge/-Data%20Analysis-1F77B4?style=flat-square&logo=data&logoColor=white" />
 
 </p>
 
