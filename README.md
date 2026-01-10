@@ -24,6 +24,7 @@
   <img alt="matplotlib" src="https://img.shields.io/badge/-Matplotlib-239120?style=flat-square&logo=python&logoColor=white" />
   <img alt="data visualization" src="https://img.shields.io/badge/-Data%20Visualization-4CAF50?style=flat-square&logo=dataviz&logoColor=white" />
   <img alt="data analysis" src="https://img.shields.io/badge/-Data%20Analysis-1F77B4?style=flat-square&logo=data&logoColor=white" />
+  <img alt="machine learning" src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square&logo=scikit-learn&logoColor=white" />
 
 </p>
 
