@@ -1,6 +1,18 @@
 # Mahima Mahajan
 
-B.Sc. Data Analytics student building projects in business analytics, data science and digital marketing.
+B.Sc. Computational Statistics and Data Analytics graduate from Guru Nanak Dev University, Amritsar (2023–2026), with a CGPA of 8.21/10.
+
+I combine SQL, Python, Excel and Power BI with hands-on e-commerce and business operations experience.
+
+## Professional experience
+
+**Management Trainee · GSR Global Solutions Private Limited (SHOEGR), Mohali**  
+June–September 2026
+
+- Analysed Amazon MTR data to track sales, FBA charges, advertising costs, marketplace deductions and net revenue for unit economics and profitability analysis.
+- Structured three months of sales and profitability tracking across platforms, categories and products, including revenue, units sold and city-level revenue analysis.
+- Built Google Sheets trackers for competitor prices, Amazon listing audits and product information, plus a product master covering 17+ attributes.
+- Created and managed 35+ AJIO product listings and supported invoices and billing operations.
 
 I work with Python, SQL, Excel, Power BI and Tableau. My recent projects connect data preparation and validation with business questions, interactive reports and clearly stated limitations.
 
