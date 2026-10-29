@@ -1,34 +1,25 @@
-<div id="header" align="center">
-  <img src=https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif width="150"/>
-</div>
+# Mahima Mahajan
 
-<h2 align="center">Hi 👋, I'm Mahima Mahajan</h2>
+B.Sc. Data Analytics student building projects in business analytics, data science and digital marketing.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=1000&height=30&lines=Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
+I work with Python, SQL, Excel, Power BI and Tableau. My recent projects connect data preparation and validation with business questions, interactive reports and clearly stated limitations.
 
-- 📚 I am pursuing B.Sc in **Data Analytics.**
-- 🌱 Experienced in **Python, SQL, and data visualization tools**.
+## Explore my work
 
+| Project | What it demonstrates | Evidence |
+|---|---|---|
+| [E-commerce profitability & forecasting](https://github.com/mahima68/ecommerce-profitability-demand-forecasting) | Data cleaning, SQL reconciliation, forecast evaluation and commercial scenarios | [Live dashboard](https://mahima-ecommerce-analytics.streamlit.app/) |
+| [Marketing budget uplift](https://github.com/mahima68/marketing-budget-uplift) | Experimental data, targeting policies, held-out evaluation and uncertainty | [Public decision memo](https://github.com/mahima68/marketing-budget-uplift/blob/main/BUSINESS_REPORT.md) |
+| [Job market intelligence](https://github.com/mahima68/job-market-intelligence) | API ingestion, immutable observations, PostgreSQL/dbt and data quality | [Real aggregate findings](https://github.com/mahima68/job-market-intelligence/blob/main/LIVE_FINDINGS.md) |
+| [Google Merchandise Store analytics](https://github.com/mahima68/Google-Merchandise-Store-Analytics) | Acquisition, ecommerce funnels, GA4 interpretation and BigQuery SQL | [Public sample dashboard](https://mahima68.github.io/Google-Merchandise-Store-Analytics/dashboard/bigquery-sample.html) |
+| [BookNest marketing portfolio](https://github.com/mahima68/booknest-digital-marketing-portfolio) | SEO planning, content, copywriting, creative production and measurement design | Fictional bookstore; no live campaign results claimed |
 
-<h3 align="left">Languages and Tools:</h3>
-<p>
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS-007ACC?style=flat-square&logo=CSS3&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="excel" src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
-  <img alt="sql" src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
-  <img alt="powerbi" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" />
-  <img alt="ibm spss" src="https://img.shields.io/badge/-IBM%20SPSS-052FAD?style=flat-square&logo=ibm&logoColor=white" />
-  <img alt="pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
-  <img alt="matplotlib" src="https://img.shields.io/badge/-Matplotlib-239120?style=flat-square&logo=python&logoColor=white" />
-  <img alt="data visualization" src="https://img.shields.io/badge/-Data%20Visualization-4CAF50?style=flat-square&logo=dataviz&logoColor=white" />
-  <img alt="data analysis" src="https://img.shields.io/badge/-Data%20Analysis-1F77B4?style=flat-square&logo=data&logoColor=white" />
-  <img alt="machine learning" src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square&logo=scikit-learn&logoColor=white" />
+## Find projects relevant to your team
 
-</p>
+- **Data analytics / BI:** e-commerce analytics, job market intelligence and GA4/BigQuery.
+- **Business analysis:** e-commerce decision scenarios and requirements-to-metrics work in GA4. These are analytics case studies; they do not represent client delivery or a complete requirements/UAT engagement.
+- **Data science:** marketing uplift and forecast comparison, including results that do not beat simpler baselines.
+- **Marketing analytics:** acquisition and funnel analysis plus experimental targeting evaluation.
+- **Digital marketing / content:** BookNest’s SEO, editorial and creative assets, supported by a measurement plan. Actual campaign execution remains a development goal.
 
-<h3 align="left">Connect with me:</h3>
-<p><a href="https://github.com/mahima68" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/_mahima68" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/mahima-mahajan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
+[Role-specific project selection and CV wording](APPLICATION_GUIDE.md) · [LinkedIn](https://www.linkedin.com/in/mahima-mahajan)
